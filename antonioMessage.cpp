@@ -1,3 +1,5 @@
+/*This program encrypts the message in a sequence of characters using Multi-dimensional arrays */
+
 #include <iostream>
 #include <string>
 #include <math.h>
