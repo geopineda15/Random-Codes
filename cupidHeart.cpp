@@ -1,3 +1,5 @@
+/* This program finds the string "heart" or "HEART" inside a sentence and change it with the phrase ">>-h-e-a-r-t->" */
+
 #include <iostream>
 #include <string>
 
