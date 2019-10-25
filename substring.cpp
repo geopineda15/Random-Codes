@@ -1,3 +1,5 @@
+/*This program compares two strings and check if they have words that are the same */
+
 #include <iostream>
 #include <string>
 
